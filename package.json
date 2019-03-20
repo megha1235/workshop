@@ -1,0 +1,23 @@
+{
+  "name": "nodepgms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megha1235/workshop.git"
+  },
+  "author": "megha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megha1235/workshop/issues"
+  },
+  "homepage": "https://github.com/megha1235/workshop#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
